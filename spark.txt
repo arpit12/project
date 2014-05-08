@@ -1,0 +1,7 @@
+Once you've done this you can fetch remote pull requests
+# Fetch remote pull requests
+$ git fetch origin
+# Checkout a remote pull request
+$ git checkout origin/pr/112
+# Create a local branch from a remote pull request
+$ git checkout origin/pr/112 -b new-branch
