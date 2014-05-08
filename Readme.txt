@@ -1,0 +1,1 @@
+This, again, is not a Git command. It’s another standard navigational command prompt. touch really means “create.” Whatever you write after that is the name of the thing created. If you go to your folder using Finder or the Start menu, you’ll see an empty Readme.txt file is now inside. You could have also made something like “Readme.doc” or “Kiwi.gif,” just for kicks.
